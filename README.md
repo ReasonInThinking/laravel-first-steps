@@ -10,4 +10,5 @@ This is a simple project I built while learning Laravel basics.
 - **Views**: Clean templates using the **Blade** engine.
 - **Logic**: Passing data arrays and using `@foreach` loops.
 
-Everything is hand-coded to practice the fundamental "Route-to-View" flow.
+
+Just a simple project to practice the basics!
